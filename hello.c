@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-	printf("Hello World.......from Jenkins!!!\n");
+	printf("If you see this.......means CI/CD pipeline is working!!!\n");
 	return 0;
 }
